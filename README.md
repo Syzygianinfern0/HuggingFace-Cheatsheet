@@ -7,7 +7,7 @@ Please do spin these over [Google Colaboratory](https://colab.research.google.co
 on any other GPU service providers as datasets and pre-trained model weights take up a 
 consume a large amount of data and processing power.
 
-Some of the techniques experimented with here are:
+Some of the SOTA techniques experimented with here are:
 - Sequence Classification
 - Language Modelling
 - Named Entity Recognition
